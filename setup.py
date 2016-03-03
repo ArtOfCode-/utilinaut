@@ -6,5 +6,6 @@ setup(
     description = 'General utilities for use in Python scripting.',
     author = 'ArtOfCode',
     author_email = 'hello@artofcode.co.uk',
-    download_url = 'https://github.com/ArtOfCode-/utilinaut/tarball/0.0.1'
+    url = 'https://github.com/ArtOfCode-/utilinaut',
+    download_url = 'https://github.com/ArtOfCode-/utilinaut/tarball/0.0.1-minim'
 )
